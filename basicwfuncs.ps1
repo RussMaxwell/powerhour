@@ -71,6 +71,8 @@ try {
 
     #call get list function 
     getList
+
+    write-host "c++"
 }  
 
 
