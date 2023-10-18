@@ -72,7 +72,7 @@ try {
     #call get list function 
     getList
 
-    write-host "c++"
+    write-host "c#"
 }  
 
 
